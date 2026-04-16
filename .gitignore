@@ -1,0 +1,9 @@
+﻿.c9/
+*.pem
+*.key
+*.crt
+__pycache__/
+*.pyc
+.env
+out_of_memory
+*.log
